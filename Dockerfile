@@ -1,4 +1,4 @@
-FROM FROM koji/image-build
+FROM koji/image-build
 
 LABEL maintainer="Red Hat, Inc."
 
